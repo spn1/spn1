@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Spencer
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React, Node, Next.JS, GraphQL, and General Server Things
+- 💻 I’m currently working with React, Node, Typescript, GraphQL, and others
+- 🌱 I'm also learning how to use Remix, alongside some C++ and Python
 
 <!---
 spn1/spn1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

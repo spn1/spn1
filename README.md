@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Spencer
-- 👀 I’m A Senior Software Engineer working at Sky
-- 💻 I’m currently working with React, Node, Typescript, GraphQL, and others
-- 🌱 I'm also learning how to use Remix (React-Router 7), alongside some C++ and Python
+- 👀 I’m A Senior Software Engineer working at Twinkl
+- 💻 I’m currently working with React, Node, Typescript, AWS, and others
+- 🌱 I'm also learning some Rust on the side
